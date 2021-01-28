@@ -32,9 +32,16 @@ p#result{
 	#btns{
 		font-size: 5px;
 	}
+	p#result{
+		font-size:35px;
+	}
+	
 }
 @media screen and(max-width:300px){
 	#btns{
 		font-size:3px;
+	}
+	p#result{
+		font-size:25px;
 	}
 }
