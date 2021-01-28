@@ -24,6 +24,5 @@ function game(num){
 	}else{
 		result.textContent="出直してきな！";
 		result.style.color="#e03a3a";
-		result.style.fontSize="50px";
 	}
 }
