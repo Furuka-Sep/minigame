@@ -30,6 +30,11 @@ p#result{
 }
 @media screen and (max-width: 320px) {
 	#btns{
-		font-size: 7px;
+		font-size: 5px;
+	}
+}
+@media screen and(max-width:300px){
+	#btns{
+		font-size:3px;
 	}
 }
