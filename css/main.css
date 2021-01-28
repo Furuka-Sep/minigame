@@ -16,7 +16,7 @@ p#hoi{
 	font-size:3em;
 }
 p#result{
-	font-size:3em;
+	font-size:200%;
 	margin:0;
 }
 #btns{
@@ -29,28 +29,17 @@ p#result{
 }
 @media screen and (max-width: 414px) {
 	div#btns {
-    		width: 100%;
 	   	font-size: xx-small;
 	}
-	p#result{
-		font-size:35px;
-	}
-	
 }
 @media screen and(max-width:375px){
 	div#btns{
 		font-size:8px;
 	}
-	p#result{
-		font-size:25px;
-	}
 }
 @media screen and(max-width:320px){
 	div#btns{
 		font-size:4px;
-	}
-	p#result{
-		font-size:25px;
 	}
 }
 
