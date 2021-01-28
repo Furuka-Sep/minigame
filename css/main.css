@@ -25,12 +25,12 @@ p#result{
 }
 @media screen and(max-width: 480px){
 	#btns{
-		font-size:x-small;
+		font-size:4px;
 	}
 }
 @media screen and (max-width: 320px) {
 	#btns{
-		font-size: 5px;
+		font-size: 4px;
 	}
 	p#result{
 		font-size:35px;
