@@ -24,8 +24,12 @@ p#result{
 	text
 }
 @media screen and(max-width: 480px){
-	font-size:x-small;
+	#btns{
+		font-size:x-small;
+	}
 }
 @media screen and (max-width: 320px) {
-	font-size: 7px;
+	#btns{
+		font-size: 7px;
+	}
 }
