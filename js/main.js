@@ -20,9 +20,11 @@ function game(num){
 	if(num==face){
 		result.textContent="やるじゃない";
 		result.style.color="#ff70ff";
-		result.style.fontSize="50px";
+		result.style.fontSize="2em";
 	}else{
 		result.textContent="出直してきな！";
 		result.style.color="#e03a3a";
+		result.style.fontSize="2em";
+		
 	}
 }
