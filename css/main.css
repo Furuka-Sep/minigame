@@ -23,14 +23,14 @@ p#result{
 	width:100%;
 	text
 }
-@media screen and(max-width: 480px){
+@media screen and(max-width: 414px){
 	#btns{
-		font-size:4px;
+		font-size:8px;
 	}
 }
 @media screen and (max-width: 320px) {
 	#btns{
-		font-size: 4px;
+		font-size: 6px;
 	}
 	p#result{
 		font-size:35px;
