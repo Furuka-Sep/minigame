@@ -6,4 +6,4 @@
 
 大して中身の無いゲームですがご了承ください。
 
-https://github.com/Furuka-Sep/minigame
+https://furuka-sep.github.io/minigame/
